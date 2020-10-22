@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Sharanbl:Sharanbl@cluster0.vheen.gcp.mongodb.net/Beingo?retryWrites=true&w=majority",
+    "baseURL": "http://localhost:5000"
+}
